@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 dev分支添加内容测试
 
-mester解决冲突
+合并解决冲突
